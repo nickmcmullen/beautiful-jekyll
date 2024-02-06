@@ -14,7 +14,7 @@ author: Nick McMullen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am a MS PEDA student at ASU Watts College, located in the Phoenix area."
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
