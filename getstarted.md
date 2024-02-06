@@ -63,3 +63,14 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
 ---
 ---
 ```
+
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
