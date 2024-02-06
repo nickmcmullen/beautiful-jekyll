@@ -82,13 +82,14 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
      font-size: 30px;
 }
 
-.gs-section-02 h2 { 
-     color: yellow }
+.gs-section-02 h3 { 
+     color: pink }
 
 .gs-section-02 p {
      font-size: 10px;
 
-.gs-section-03 h4 { 
+}
+.gs-section-03 h3 { 
      color: green }
 
 .gs-section-03 p {
